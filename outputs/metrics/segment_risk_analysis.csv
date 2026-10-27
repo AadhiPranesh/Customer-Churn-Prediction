@@ -1,0 +1,20 @@
+Segment_Dimension,Segment_Value,Customer_Count,Actual_Churn_Rate,Predicted_Churn_Risk,Risk_Calibration_Diff
+Membership Tier,Gold,824,30.1,34.86,4.76
+Membership Tier,Platinum,302,31.13,33.61,2.48
+Membership Tier,Silver,1474,32.29,36.83,4.53
+City Market,Austin,266,37.59,41.87,4.28
+City Market,Boise,247,31.98,36.06,4.08
+City Market,Columbus,268,36.19,40.73,4.54
+City Market,Denver,257,28.79,33.04,4.24
+City Market,Madison,256,29.69,33.3,3.61
+City Market,Nashville,237,33.33,37.19,3.86
+City Market,Portland,240,28.33,34.04,5.71
+City Market,Raleigh,282,29.79,34.95,5.16
+City Market,Spokane,252,28.97,32.92,3.95
+City Market,Tulsa,295,29.83,34.04,4.21
+Signup Year,2021.0,745,37.45,38.15,0.7
+Signup Year,2022.0,792,38.64,38.58,-0.05
+Signup Year,2023.0,816,28.06,31.46,3.39
+Signup Year,2024.0,247,1.62,34.43,32.81
+Insufficient History Flag,0.0,2227,29.73,33.0,3.27
+Insufficient History Flag,1.0,373,41.82,52.75,10.92

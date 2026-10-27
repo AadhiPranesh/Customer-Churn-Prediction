@@ -1,0 +1,4 @@
+Feature Group,Total Features,PR-AUC,ROC-AUC,F1-Score,Recall,Precision,Accuracy,PR-AUC Uplift vs A,F1 Uplift vs A
+Group A: Demographics Only,12,0.163,0.5073,0.1711,0.1529,0.194,0.807,0.0,0.0
+Group B: Demographics + Transactions,36,0.7534,0.875,0.6503,0.6235,0.6795,0.9127,0.5904,0.4792
+Group C: Full Permitted Features,57,0.8463,0.9222,0.805,0.7529,0.8649,0.9525,0.6833,0.6339

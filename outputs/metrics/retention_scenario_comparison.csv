@@ -1,0 +1,5 @@
+Scenario_Name,Targeted_Members,Target_Share_Pct,Campaign_Cost_USD,Estimated_Retained_Members,Estimated_Gross_Benefit_USD,Estimated_Net_Benefit_USD,ROI_Pct,Cost_Per_Retained_Member
+Status Quo (Blanket Promotion),2600,100.0,26000.0,40.9,7362.0,-18638.0,-71.7,635.7
+Scenario 1 (Targeted Reactivation),862,33.2,6896.0,69.7,12547.06,5651.06,81.9,98.93
+Scenario 2 (Proactive Support Concierge),458,17.6,6870.0,110.7,19923.58,13053.58,190.0,62.07
+Scenario 3 (Integrated Dual-Track Strategy),898,34.5,10390.0,144.2,25961.94,15571.94,149.9,72.04
